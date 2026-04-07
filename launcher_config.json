@@ -15,7 +15,7 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/luiizlemes97-commits/client-update1/blob/main/canary-launcher.zip",
+	"newClientUrl" : "https://github.com/luiizlemes97-commits/client-update1/raw/refs/heads/main/canary-launcher.zip",
 	"clientExecutable": "bin/client.exe"
 
 	
